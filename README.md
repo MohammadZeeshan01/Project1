@@ -7,7 +7,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-green)
 
 
-<!-- ## Project 1 [Live Link](https://live-proj-1.netlify.app/) -->
+## Project 1 [Live Link](zeeshan-html-css-project-1.netlify.app)
 
 -   Skills Gained in this project
     -   Learnd to use css position Absolute and Relative property.
